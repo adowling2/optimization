@@ -5,7 +5,7 @@ CBE/ACMS 40499 and 60499 at U. Notre Dame
 https://ndcbe.github.io/optimization
 
 
-## Configuring local environment to contribute
+## Configuring local environment to contribute (for instructor)
 * Install anaconda: https://www.anaconda.com/
 * Create new conda environment: `conda create -n jbook python=3.9`
 * Activate new environemnt: `conda activate jbook`
